@@ -1,0 +1,14 @@
+<Items>
+    <Item>
+        <title>Title 1</title>
+        <link>Link 1</link>
+    </Item>
+    <Item>
+        <title>Title 2</title>
+        <link>Link 2</link>
+    </Item>
+    <Item>
+        <title>Title 3</title>
+        <link>Link 3</link>
+    </Item>
+</Items>
